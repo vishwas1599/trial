@@ -1,0 +1,1 @@
+kubeadm join 10.0.2.15:6443 --token hlfgwl.5jzu85q4u0qxyb43 --discovery-token-ca-cert-hash sha256:df8523ec982197eb293e71e8e9f3d195e6abfda7c9e523d9792158e0d4853355 
